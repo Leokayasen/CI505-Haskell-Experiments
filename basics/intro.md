@@ -74,6 +74,15 @@ False
 [2, 4, 6, 8, 10]
 ```
 
+## Defining Functions
+```haskell
+> let square n = n * n
+> square 5
+25
+
+> square 10
+100
+```
 
 
 
