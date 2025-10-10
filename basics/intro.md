@@ -1,5 +1,10 @@
 # Basics of Haskell using GHCi
 
+> [!WARNING]
+> Remember, haskell files are always `.hs`
+> Running scripts without the correct file extension will not work! 
+
+
 ## Basic Maths
 ```haskell
 > 2 + 3
