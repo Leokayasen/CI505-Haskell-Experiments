@@ -2,6 +2,9 @@
 
 Lab Work from CI505 Introduction to Functional Programming @ University of Brighton
 
+[haskell.org](https://www.haskell.org/)
+
+[Hoogle - For all things Haskell](https://hoogle.haskell.org/)
 
 Functional Programming - Introductory Course from [Nottingham University](https://people.cs.nott.ac.uk/pszgmh/pgp.html)\
 *This link may stop working at any time, if so open an Issue*
