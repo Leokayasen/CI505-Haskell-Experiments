@@ -1,7 +1,7 @@
 # Basics of Haskell using GHCi
 
 > [!WARNING]
-> Remember, haskell files are always `.hs`
+> Remember, haskell files are always `.hs`\
 > Running scripts without the correct file extension will not work! 
 
 
