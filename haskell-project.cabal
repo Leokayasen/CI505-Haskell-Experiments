@@ -58,7 +58,7 @@ library
     import:           warnings
 
     -- Modules exported by the library.
-    exposed-modules: Utils
+    exposed-modules: Utils, Math.Arithmetic, Math.Geometry, Math.Tuples, Math.Lists
 
     -- Modules included in this library but not exported.
     -- other-modules:
@@ -70,7 +70,7 @@ library
     build-depends:    base ^>=4.21.0.0
 
     -- Directories containing source files.
-    hs-source-dirs:   src
+    hs-source-dirs:   src, app
 
     -- Base language which the package is written in.
     default-language: Haskell2010
